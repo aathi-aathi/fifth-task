@@ -1,0 +1,11 @@
+window:
+The window object represents the browser window or tab that contains the document. It is the global object in the browser's JavaScript environment.
+All global JavaScript variables, functions, and objects are properties of the window object. For example, if you declare a global variable, it becomes a property of the window object.
+
+document:
+The document object represents the HTML document loaded in the browser window. It provides methods and properties for interacting with the content of the document, such as accessing and manipulating HTML elements.
+You can use the document object to dynamically modify the content, structure, and style of the HTML document.
+
+Screen:
+The screen object represents the screen or display properties of the user's device. It provides information about the user's screen, such as width, height, and color depth.
+The screen object is useful for determining the available screen space, which can be helpful when designing responsive web applications.

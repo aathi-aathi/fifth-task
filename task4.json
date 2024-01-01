@@ -1,0 +1,18 @@
+{"name": "Aathish",
+  "contact": {
+    "email": "aathivdr2004@gmail.com",
+    "phone": "+91 8270224706",
+    "address": "123 Main Street, Vaduvur, Thiruvarur(dt)"
+  },
+  "education": {
+      "degree": "Bachelor of Science in Computer Science",
+      "Institute": "AVVM Sri Pushpam College",
+      "graduationYear": 2024
+    },
+"skills": [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "HTML5",
+    "CSS3"]
+}
